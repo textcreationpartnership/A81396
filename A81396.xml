@@ -1,0 +1,1373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ exalted, and alone worthy to open the seals of the book. And the scriptures owned in their place. A true testimony of him, as is manifest, in answer to a book, intituled, The Quakers apostacy, from the perfect rule of scriptures. Given forth by John Timson, of Great Bowden in Leicestershire. And the deceits and blasphemies he charges upon the Quakers, is turned upon his own head, and he found guilty of what he reproaches them with, in what is written for the simples sake, and truth to clear from false accusations and lyes cast upon it. And the ten queries he saith he vindicateth, and would print but foure of them, they are all published, with the answers that he charges to be confused, dark and deceitfull, that the answers may witnesse for themselves against what is charged upon them. He that hath an understanding in the light, read and judge. / William Dewsberry.</title>
+            <author>Dewsbury, William, 1621-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81396</idno>
+            <idno type="STC">Wing D1258</idno>
+            <idno type="STC">Thomason E891_6</idno>
+            <idno type="STC">ESTC R206512</idno>
+            <idno type="EEBO-CITATION">99865656</idno>
+            <idno type="PROQUEST">99865656</idno>
+            <idno type="VID">117904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117904)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E891[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ exalted, and alone worthy to open the seals of the book. And the scriptures owned in their place. A true testimony of him, as is manifest, in answer to a book, intituled, The Quakers apostacy, from the perfect rule of scriptures. Given forth by John Timson, of Great Bowden in Leicestershire. And the deceits and blasphemies he charges upon the Quakers, is turned upon his own head, and he found guilty of what he reproaches them with, in what is written for the simples sake, and truth to clear from false accusations and lyes cast upon it. And the ten queries he saith he vindicateth, and would print but foure of them, they are all published, with the answers that he charges to be confused, dark and deceitfull, that the answers may witnesse for themselves against what is charged upon them. He that hath an understanding in the light, read and judge. / William Dewsberry.</title>
+                  <author>Dewsbury, William, 1621-1688.</author>
+               </titleStmt>
+               <extent>[2], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the west end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A response to: Timson, John.  The Quakers apostacie.</note>
+                  <note>Annotation on Thomason copy: "Nou: 7th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Timson, John. --  Quakers apostacie --  Early works to 1800.</term>
+               <term>Jesus Christ --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117904:1"/>
+            <pb facs="tcp:117904:1" rendition="simple:additions"/>
+            <p>CHRIST
+EXALTED,
+<hi>AND</hi>
+Alone worthy to open the Seals of the Book. And the Scriptures owned in their place. <hi>A</hi>
+True TESTIMONY of him, as
+is manifeſt, in Anſwer to a Book, Intituled,
+<hi>The Quakers Apoſtacy, from the perfect Rule
+of Scriptures.</hi> Given forth by <hi>John Timſon,</hi> of
+Great <hi>Bowden</hi> in <hi>Leiceſterſhire.</hi> And the Deceits and Blaſphemies he charges
+upon the <hi>Quakers,</hi> is turned upon his own head, and
+he found guilty of what he reproaches them with, in what
+is written for the ſimples ſake, and truth to clear
+from falſe accuſations and lyes caſt upon it. And the Ten <hi>Queries</hi> he ſaith he vindicateth,
+and would Print but foure of them, they are
+all publiſhed, with the Anſwers that he charges to be
+confuſed, dark and deceitfull, that the Anſwers
+may witneſſe for themſelves againſt what
+is charged upon them. He that hath an underſtanding in the light, read and judge.</p>
+            <p>WILLIAM DEWSBERRY.</p>
+            <q>
+               <p>Search the Scriptures, for in them ye think ye have eternall life, and
+they are they which teſtifie of me. And ye will not come to me,
+that ye might have life.</p>
+               <bibl>John 5. 39, 40.</bibl>
+            </q>
+            <q>
+               <p>Jeſus ſaith unto him, I am the way, and the truth, and the life, no
+man cometh unto the father, but by me,</p>
+               <bibl>John 14. 6.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> at the weſt end of <hi>Pauls.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117904:2"/>
+            <pb n="1" facs="tcp:117904:2"/>
+            <head>Chriſt Exalted,
+AND
+Alone worthy to open the Seals of the Book,
+And the Scriptures owned in their place, &amp;c.</head>
+            <opener>
+               <salute>John Timſon.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Book thou hath Printed, is ſeen with the light that
+returned an Anſwer to thy firſt <hi>Queries;</hi> and for the
+truths ſake, and it to clear, from the lies, ſlanders, and
+aſperſions caſt upon it, in the light here is writ, to wit<g ref="char:EOLhyphen"/>neſſe
+againſt the falſhood and untruth, which thou haſt charged us
+withall, that anſwers thy <hi>Queries,</hi> which to that of God in all
+conſciences, who it minds, will give them to diſcern, that what
+thou haſt charged againſt the people, who in ſcorn are called
+<hi>Quakers,</hi> is falſe, and on thee is returned, as the lines following
+make manifeſt, wherein is writ what thou haſt charged them with<g ref="char:EOLhyphen"/>all,
+and to clear the truth, an anſwer thereunto is returned.</p>
+            <p>In thy Preface as thou calls it, which thou preſents to the Rea<g ref="char:EOLhyphen"/>der,
+thou haſt not much of it expreſt, before thou begins falſly to
+accuſe us, charging us with drawing people aſide, and intangling
+them with dark Diabolicall ſnares, <hi>&amp;c.</hi>
+            </p>
+            <p>And thou ſaith, The anſwers thou received to thy ten <hi>Queries,</hi>
+were ſo obſcure, deceitfull, and confuſed, that it conſtrained thee
+to Reply. To which thou ſaith, an Anſwer thou haſt received, <hi>&amp;c.</hi>
+and hath now undertaken to give the ſenſe of what thou under<g ref="char:EOLhyphen"/>ſtands
+of what is writ to thee, and hath given it forth publickly to
+the world, that we have accuſed thee of ſlanders, in things that are
+too groſſe in plainneſſe of ſpeech, to publiſh to the world, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:117904:3"/>
+               <hi>Reply:</hi> Darke diabolical ſnares we deny, the word of the Lord
+God we witneſſe which was in the beginning, which word is life
+and the life is the light of men. <hi>John.</hi> 1. 1. 4. which word we
+preach to turn the mindes of people from darkneſſe to light;
+from the power of Satan to the liveing God, <hi>Acts.</hi> 26. 18. in the
+light of his liveing word, which diſcovers the thoughts and intents
+of the heart: <hi>Heb.</hi> 4. 12. to waite in his light, on him for power,
+to lead out of all the waies of darkneſſe, into union with the fa<g ref="char:EOLhyphen"/>ther
+of life, in Chriſt the light, who in him walke, there is no oc<g ref="char:EOLhyphen"/>caſion
+of ſtumbling; <hi>Jo.</hi> 2. 10<g ref="char:punc">▪</g> but who deny to be guided by his
+ſpirit is none of his; <hi>Ro. 8 ver.</hi> 9. but in darkneſſe walke and
+ſtumble at noon day, and it is truth we declare, as it is recorded
+in the Scripture of truth, he that can receive it, let him, and for
+thy charging the anſwer to be obſcure, deceitfull, and confuſed,
+ſeeing the deceit in thee, hath publiſhed that they are deceitfull,
+and could not publiſh them to make manifeſt what the deceit is
+and ſome of them which thou haſt publiſhed thou hath both ad<g ref="char:EOLhyphen"/>ded
+and diminiſhed, for the truths ſake, the queries with their
+anſwers is publiſhed, that the anſwer may witneſſe for it ſelf a<g ref="char:EOLhyphen"/>gainſt
+the falſhood thou haſt charged on it, he that hath an eye to
+ſee let him ſee;</p>
+            <p>And for thy giveing thy ſence of what thou underſtands of our
+writeing and ſaith we accuſe thee of ſlandering <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply</hi> Thy ſence thou gives of our words with thy dark un<g ref="char:EOLhyphen"/>derſtanding
+we deny, and ſlandering we deny, it is thy owne
+practiſe, proved to thy face, by thy owne words, as followeth.
+Second falſe accuſation.</p>
+            <p>2. Thou ſayes, that we judge our novices, and all others beſides
+our ſelves u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peable to receive ſome of our principles, as yet, and
+therefore we ſtudy to darken the ſence, by ſubtill glozing, equi<g ref="char:EOLhyphen"/>vocating
+expreſſions, and ſhuffles.</p>
+            <p>
+               <hi>Reply,</hi> Thy falſe accuſation we deny, we doe not judge Novices
+beſides our ſelves uncapeable to receive our principles, we know
+Chriſt the true light hath lighted every one that comes into the
+world, and the Goſpel we preach, is to turn the mindes of people,
+from darkneſſe to light, and who it minds it will give them an un<g ref="char:EOLhyphen"/>derſtanding
+the principle of pure religion to know, Chriſt the
+light in whom we ſtand cleare of thy ſlanders, in his light we
+<pb n="3" facs="tcp:117904:3"/>
+plainly ſpeake as moved of him, and doe not ſtudy to darken the
+ſence of our wordes, as thou doſt falſely accuſe us, the Lord is
+Judge between thee and us.</p>
+            <p>3. The third accuſation charging us with damnable hereſies,
+<hi>&amp;c.</hi> and further thou ſayeſt, what thou haſt charged us withall
+is upon ſuch rationall grounds, that thou art ſure we are convin<g ref="char:EOLhyphen"/>ced
+in the ſecret of our hearts and Conſciences that thou lyes
+not; In the preſence of God I charge thee to be a lyar, in the ſlan<g ref="char:EOLhyphen"/>ders
+and lyes before written, what followeth will make thee
+more manifeſt; thou ſayeſt we frequently judge men by the light
+which gave forth the Scripture, even while we are oppoſing the
+authority of Scriptures, as they are the only rule of knowing
+God, and Jeſus Chriſt whom he hath ſent, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Thy charge is falſe, in ſaying we oppoſe the authority of
+Scriptures which Chriſt the light who gave forth the Scripture,
+who ſpake as one haveing authority and not as the Scribes, <hi>Mat.</hi>
+7. 29. and the Scripture is a true teſtimony of him who is the
+way to the father, <hi>none knowes the father but the ſon and he to whom
+the ſon reveales him, Mat.</hi> 11. 27. ſo thou in the light art ſeene
+to be guilty of what thou chargeſt us withall, in denying Chriſt
+the light, within, to be the authority of Scriptures, and the per<g ref="char:EOLhyphen"/>fect
+rule of faith and obedience, therefore let fleſh be ſilent, and
+the lying mouth be ſtopped, for Chriſt we own, which was before
+the Scriptures, and is the authority of them, for when he ſpoke
+them forth he ſpoke as one haveing authority and according as
+Chriſt ſpeaketh of the Scriptures, we them own in their place;
+a true teſtimony of him, <hi>Jo. 5. 39, 40. who is the way the truth and
+the life, and no man cometh to the father but by him. Jo.</hi> 14. 6.</p>
+            <p>So none comes to the knowledge of the father by reading the
+Scriptures though they think to finde life there, they ſhall not,
+if they come not to Chriſt, of whom they teſtifie, and in whom
+the life is, who ſaith <hi>ſearch the Scriptures for in them ye think to
+have eternall life,</hi> and they are they which teſtifie of me, and he re<g ref="char:EOLhyphen"/>proves
+all who will not come to him that they may have life. So
+what thou charges us withall, thou art the man that denys the
+authority of Scriptures, and found guilty of ſlandering the Chil<g ref="char:EOLhyphen"/>dren
+of light, as what is written makes manifeſt and what as
+followeth will make thee more manifeſt to all that have eyes to
+<pb n="4" facs="tcp:117904:4"/>
+ſee the many falſhhoods and lyes thou haſt begun the booke with<g ref="char:EOLhyphen"/>all,
+in that thou calls the preface to the reader, ſo out of thy
+owne mouth thou art condemned.</p>
+            <p>4. The fourth falſe accuſation, thou ſayſt we are ſo drunk with
+deluſion and impudency, that we will rather charge the Scripture
+with deceit then queſtion our owne deceitfull hearts.</p>
+            <p>
+               <hi>Reply.</hi> In the preſence of God we witneſſe againſt thee, we
+owne the Scripture to be the Scripture of truth and do not charge
+the Scripture with deceit, but with the light of Chriſt that gave
+forth the Scriptures, and diſcovereth the deceit of the heart, with
+which light we judge the deceit of the heart, and witneſſe againſt
+thee in the light, which makes known to us the Scripture in the
+truth as it is in Jeſus Chriſt the light God is our witneſſe.</p>
+            <p>5. The fifth falſe accuſation, thou ſayſt we rite and ſpeak
+the L<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nguage of Scripture as if we were for it, and is not, which is
+rancke hypocriſy and done of purpoſe to deceive.</p>
+            <p>
+               <hi>Reply.</hi> We in the light ſpeak as moved of the Lord 2 <hi>Pet.</hi> 1.
+21. whoſe Language is according to Scripture, and doing any
+thing in hypocriſy we deny, as to deceive any the Lord is our
+witneſſe, who will rebuke the lying ſpirit, and ſtop thy lying
+mouth.</p>
+            <p>6. The ſixth falſe accuſation, thou ſayſt we boaſt, that we are
+as perfect as Chriſt that dyed at <hi>Jeruſalem.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Thy charge is falſe, boaſting we deny, or any perfection
+that is of ſelf, our righteouſneſſe without Chriſt is as a filthy ragg;
+and a menſtruous cloth, Chriſt our righteouſneſſe, who is the
+true light, <hi>that lighteth every one that comes into the world, Jo.</hi> 1. 9.
+we witneſſe him the ſame Chriſt, as was in that body that ſuffered
+at <hi>Jeruſalem;</hi> and every one of the Children of light in the mea<g ref="char:EOLhyphen"/>ſure
+of growth in him, the ſame minde is in them, that was in
+Chriſt Jeſus, <hi>Phil.</hi> 2. 5. who is the brightneſſe of the fathers
+glory, <hi>Heb.</hi> 1. 3.</p>
+            <p>7. The ſeventh falſe accuſation, thou ſayſt we ſay, that he that
+truſts in Chriſt that dyed at <hi>Jeruſalem,</hi> for Salvation, ſhall be de<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>
+               <hi>Reply.</hi> This charge is falſe as the other, in the preſence of God
+we witneſſe againſt thee, no other Chriſt we bear teſtimony of to
+be the ſalvation of loſt man and woman, but that Chriſt accor<g ref="char:EOLhyphen"/>ding
+<pb n="5" facs="tcp:117904:4"/>
+to Scripture teſtimony, who was born of the virgin and bore
+a good confeſſion before <hi>Pilate,</hi> and ſuffered at <hi>Jeruſalem,</hi> and
+roſe again the third day, and aſcended into Heaven, and ſitteth at
+the right hand of God, and this Chriſt we witneſſe the true light,
+<hi>who lighteth every one that comes into the world,</hi> and ſaith I ſtand
+at the door and knock, who opens, <hi>I will come into him and ſup
+with him, and he with me, Rev.</hi> 3. 20. and we witneſſe him faith<g ref="char:EOLhyphen"/>full:
+<hi>and as many as receives him, to them he gives power, to be<g ref="char:EOLhyphen"/>come
+the Sons of God,</hi> and this is the condemnation of all, becauſe
+they beleeve not in him. <hi>Jo.</hi> 1. 12.</p>
+            <p>8. The eight falſe accuſation, thou ſayſt we reproach Chriſts
+inſtitutions and holy ordinances, with the odium of mens tradi<g ref="char:EOLhyphen"/>ditions,
+outward obſervations inconſiſtent with Gods Kingdome,
+and compares them to <hi>Nebuchadnezzars</hi> great Idol, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Thy Charge is falſe, Chriſts inſtitutions, and holy
+ordinances, we owne in the diſpenſation of time they were to be
+continued, and what is now in this diſpenſation of time known
+in the adminiſtration of his ſpirit, we owne, but who upholds any
+Idolatry, in obſerving any thing by tradition, and not guided by
+the Spirit of Chriſt, and ſo walke contrary to the perfect Law of
+God in the Conſcience; and though their words be never ſo glo<g ref="char:EOLhyphen"/>rious
+in outward appearance, in crying the Ordinances of Chriſt,
+while they deny to be guided by Chriſt, they are no Ordinances
+of Chriſt, but an Image, ſet up in the proud exalted nature, which
+<hi>Nebuchad nezzar</hi> ſet up his Image in which with the power of
+God ſhall be throwne downe and thou with the reſt of the Idol
+worſhipers ſhall be broken to peices and lyes ſhall not ſave
+thee, for the Lord will exalt his name and his Children that ob<g ref="char:EOLhyphen"/>ſerve
+his holy ordinances ſhall reigne in his his ſpirituall power,
+that preſerves them therein to obſerve the moveings of his ſpi<g ref="char:EOLhyphen"/>rit,
+which doth lead to worſhip the father, in ſpirit and truth, ac<g ref="char:EOLhyphen"/>cording
+to teſtimony of Scripture, <hi>Joh.</hi> 4. 23, 24.</p>
+            <p>And when thou <hi>John Timſon</hi> haſt preſented thy falſe accuſa<g ref="char:EOLhyphen"/>tions
+and lyes to the Reader, in the preface of thy Booke, that
+they might receive the falſehoods, and lyes that are written there<g ref="char:EOLhyphen"/>in,
+and theſe lyes and ſlanders, which are here laid before thee,
+and witneſſed againſt, in the anſwer there to returned will ſuffi<g ref="char:EOLhyphen"/>cienly
+prove to thy face, and be manifeſt to that of God in every
+<pb n="6" facs="tcp:117904:5"/>
+ones Conſcience, that thou haſt ſpoken unadviſedly with thy lips,
+when thou ſayſt thou lies not, and all theſe lies found in thy mouth,
+given forth publiquely for all to read and thou declares to the
+Reader that the Lord knows, what diligence and tenderneſſe of
+bowels, thou haſt had to prepare it for them, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Bluſh for ſhame O vain man to appeale to the Lords
+knowledge of thy d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gence and tenderneſſe of bowels, to prepare
+ſo many lyes and falſhoods for people to read thou ſhalt certainly
+know that the Lord takes notice of thee, and he wil lay thee open,
+and make thee manifeſt, and lyes ſhall not cover thee, nor be thy
+refuge; <hi>Iſa.</hi> 28. 17. when our God will clear his truth, and thy
+tongue, and all others, that riſe up againſt him, ſhall fall in judge<g ref="char:EOLhyphen"/>ment,
+the day ſhall declare it.</p>
+            <p>Further thou goes on ſaying, as for thoſe perſons that have
+anſwered me who have charged me with bringing forth many
+lyes and ſlanders, and have made a noiſe thereof, as if I were
+ſome carnall lying wretch, that matters not what I write.</p>
+            <p>
+               <hi>Reply.</hi> To that of God in every ones conſcience I appeale, that
+lyes proceed from a Carnall wretched heart, and the Lord is
+making thee manifeſt, who would make lyes thy refuge;
+which with the light thou art ſeen, and thy lyes turned upon thee,
+that in the light thou mayſt be read what thou art, and in the
+light our Books are known, and no ſuch thing is in our Books as
+thou falſely charges us with, and would make people believe is
+written therein, in giving the ſence of our words in thy dark mind,
+and for the Simples ſake, an anſwer is returned, to clear the truth
+of God in what he hath given out by his ſpirit, both in word and
+writing, and whether thou wilt receive it yea, or nay, thou ſhalt
+know and all others, that Chriſt is the authority of the Scripture,
+and when he ſpoke them forth, he ſpake as one having authority
+and not as a Scribe, &amp; who in his light walk, cannot be perſwaded
+to turn from him, by any lyes and reproaches thou can caſt upon
+them, who ſayſt we are wholly turned from the truth, which
+againſt thee witneſſe it is not ſo, let God be judge, and in his
+day make manifeſt what we are in whoſe will we reſt, as moved
+of him to witneſſe againſt the falſhoods, thou haſt further char<g ref="char:EOLhyphen"/>ged
+upon us in what followeth.</p>
+            <p>Thou haſt not done juſtly nor honeſtly in that thou haſt not
+<pb n="7" facs="tcp:117904:5"/>
+Printed the queſtions as given forth by thee, and anſwers as retur<g ref="char:EOLhyphen"/>ned
+by us, and in an anſwer to what is of thee required, to prove
+the charge thou charges us withall, in thy reply to the anſwer to
+the firſt Queſtion, and the falſe accuſations, lyes and ſlanders
+is not proved in all thou haſt writ.</p>
+            <p>The one baptiſme we owne <hi>Eph.</hi> 4. 5. and the watch in the
+Church we owne, in the ſpirit of life, which in order doth keepe,
+in obedience to the pure God, who is the God of order, and not of
+confuſion, but keeps his Children in himſelf purely to live, accor<g ref="char:EOLhyphen"/>ding
+to what is pro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt.</p>
+            <p>Further thou goes on and queries, what proofe would we have,
+is it not our owne prophane language, both in papers and con<g ref="char:EOLhyphen"/>ference,
+it is no ne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es to hear moſt of their way, diſpute againſt
+water Baptiſm, the Lords Supper, a ſettled fixed Miniſtry over
+particular Churches, and queries, further, what Quakers admini<g ref="char:EOLhyphen"/>ſter
+water baptiſme, the Lords Supper<g ref="char:punc">▪</g> and conſtantly watches
+over a particular flock, or elſe for ſhame thou ſayſt we muſt own
+the charge, and confeſſe our ſin, in telling the world theſe are thy
+lying ſlanders.</p>
+            <p>
+               <hi>Reply.</hi> Prophane Language we deny, and ſhadowes and figures
+we witneſſe done away, the ſubſtance being come, water baptiſm
+was in its time a figure of the ſubſtance, as <hi>John</hi> witneſſes, to whom
+that diſpenſation was committed, <hi>Mat. 3. 11. I indeed baptize
+with water unto Repentance, but he that comes after me is mightier
+then I, whoſe ſh<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es I am not worthy to bear, he ſhall baptize you
+with the Holy ghoſt<g ref="char:punc">▪</g> and with fire.</hi> And <hi>Johns</hi> baptiſme we deny to
+be in force, he did decreaſe and Chriſt muſt increaſe whoſe bap<g ref="char:EOLhyphen"/>tiſme
+we own, according as is recorded in the Scripture of truth,
+and ſince he aſcended, there is no Scripture doth witneſſe his ſen<g ref="char:EOLhyphen"/>ding
+any to baptize with water, <hi>Paul</hi> who was ſent
+after he aſcended, what he did in the liberty given him,
+his liberty he knew, when he circumſciſed <hi>Timothy,</hi> and baptized
+<hi>Criſpus,</hi> and <hi>Gaius,</hi> and the houſehold of <hi>St<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phanus<g ref="char:punc">▪</g>
+               </hi> beſides I
+know not th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t I baptized any other ſaith <hi>Paul,</hi> for Chriſt ſent me
+not to baptize but to preach the Goſpel, not with wiſedome of
+words, leaſt the croſſe of Chriſt ſhould be of none effect,
+1 <hi>Cor.</hi> 1. 16, 17. And <hi>John</hi> who bare record, of the word of
+the word of God, and teſtimony of Jeſus Chriſt, <hi>Rev.</hi> 14. 6.
+<pb n="8" facs="tcp:117904:6"/>
+ſaith I ſaw an Angel in the midſt of Heaven, having the everlaſting
+Goſpel to preach to them that dwell in the earth, and to every
+Nation, and Kindred, tongue and People, <hi>John</hi> did not ſay, he
+did fly through the midſt of heaven preaching the everlaſting
+Goſpel, and baptizing with water, we know <hi>John</hi> faithfull in his
+teſtimony of Jeſus Chriſt, who is now revealed, and the Angell
+is come, and the Goſpel preached and the ſhadowes done a<g ref="char:EOLhyphen"/>way.</p>
+            <p>And Bread and Wine were the Supper of the Lord, in the diſ<g ref="char:EOLhyphen"/>penſation
+of time, a figure of his death, which were fulfilled, when
+he had ſuffered and roſe again, and now he is known to ſtand at
+the door and knock, if any man heare my voice, and open the
+door, <hi>I will come in and Sup with him, and he with me,</hi> ſaith Chriſt,
+<hi>Rev.</hi> 3. 20. And we being many are one bread, and one body,
+<hi>&amp;c. 1 Cor.</hi> 10. 17. and knows the wine renewed in our fathers
+Kingdome, Chriſt the ſubſtance we now witneſſe, ſhadows and
+figures done away, he that can receive it let him.</p>
+            <p>And the Churches ſet up by the will of man, we deny, and the
+fixed miniſtry ſet up over them by the will of man, that watch
+for the fleece, beare rule by their means, and ſeeks their gain from
+their quarter, theſe we deny; <hi>Jer. 5. 31. Iſa.</hi> 56. 11.</p>
+            <p>And thoſe in ſcorn called Quakers, doth watch over the flock of
+God, every one as the Lord them calls, and not for filthy lucre, as
+the Prieſts that bear rule by their means do, neither by conſtraint,
+but of a ready minde 1 <hi>Pet.</hi> 5. 2. in obedience to the ſpirit of the
+Lord, as he them moves, and thy ſlanders thou haſt not yet pro<g ref="char:EOLhyphen"/>ved,
+our conſcience doth witneſſe it, that what thou haſt accuſed
+us with is a lye, and not the truth.</p>
+            <p>And thou further ſayes that <hi>Will. Deuſberry</hi> in a lying paper,
+as thou calls it, which is entituled <hi>A true prophecy of the migh<g ref="char:EOLhyphen"/>ty
+day of the Lord already riſen in the North of England, &amp;c.</hi> in
+which paper he makes it his worke, to ſlander the Ordinances of
+Goſpel worſhip, under the notion of outward obſervations,
+which Chriſts Kingdome comes not in, <hi>Luke</hi> 17. 20. and thus he
+accounts of all the ordinances and inſtitutions, preſcribed by Chriſt
+himſelfe, in the Apoſtolical Churches, and accounts all the ſtrict
+obſerving of outward formes of worſhip, is but immitating the
+Saints practices, in their Babiloniſh and heatheniſh wiſedome,
+<pb n="9" facs="tcp:117904:6"/>
+all theſe outward forms, is the outward Court without the tem<g ref="char:EOLhyphen"/>ple,
+Pa. 1. 2.</p>
+            <p>
+               <hi>Reply.</hi> The lye will be found in thy owne mouth, in calling
+that a lying paper, a true prophecy it is of the mighty day of the
+Lord, and for thy ſaying, <hi>William Deuſberry</hi> makes it his worke
+<hi>&amp;c.</hi> as before written thy charge is falſe, and the truth is witneſ<g ref="char:EOLhyphen"/>ſed
+againſt vain man, who in his dark minde ſeeks the Kingdome
+of God in obſervations where it comes not <hi>Luke</hi> 17. 20. neither
+ſhall men ſay loe here or loe there, he called by name as before
+written doth witneſſe they are not the Ordinances of Chriſt, ac<g ref="char:EOLhyphen"/>cording
+as is declared of them, they will be found and made mani<g ref="char:EOLhyphen"/>feſt
+to the ſhame and confuſion of their face, who in their owne
+wiſedome immitates the Saints practices in forme, which they did
+practice in life and power in the diſpenſation of time they ſer<g ref="char:EOLhyphen"/>ved
+their generation, in the manifeſtation of the ſpirit, according
+to the will of God.</p>
+            <p>And whereas thou ſayſt in the 4 Pa. it is more clear, that he
+prophanely compares the holy ordinances and inſtitutions of the
+Lord to that great Image ſet up by <hi>Nebuchadnezzars</hi> proud na<g ref="char:EOLhyphen"/>ture,
+ſpoken of by <hi>Daniel,</hi> and that that Image was but a tipe and
+figure of this which now ſhines gloriouſly in forms and obſervati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>And thou ſayſt, that in his ſpeaking to the Anabaptiſts and Inde<g ref="char:EOLhyphen"/>pendents,
+he tells them they have ſet up a finer Image in the Goſ<g ref="char:EOLhyphen"/>pell
+ordinances (as they call them) and what other ordinances
+(thou ſayſt) doth theſe or you ſet up, but what vvas practiſed
+in the Apoſtolical Churches, thus you may ſee hovv this Impoſtor,
+doth reproach the holy things of God.</p>
+            <p>
+               <hi>Reply.</hi> Bluſh for ſhame vvho ſayſt <hi>William Dewſberry</hi> com<g ref="char:EOLhyphen"/>pares
+the holy ordinances and inſtitutions of our Lord to that
+great Image, <hi>&amp;c.</hi> Holy Ordinances, and Inſtitutions of the
+Lord is not there expreſt by him, where thou ſayſt he them ſo
+compares; he vvitneſſes againſt the Image you have ſet up in
+your minds, of the truth as you conceive vvhere you are in confu<g ref="char:EOLhyphen"/>ſion
+that doth you divide into forms and obſervations as before
+written to looke for the Kingdome of God to come, and though
+you call them the Ordinances of Chriſt you denying Chriſt the
+light you to guide in the daily croſſe, you are in the ſame nature,
+<pb n="10" facs="tcp:117904:7"/>
+wherein <hi>Nebuchadnazzar</hi> caſt the Lords ſervants into the fiery
+furnace, becauſe they witneſſed againſt his Image ſo do you who
+walke in your imaginations and deny Chriſt the light, cauſe the
+ſervants of the Lord that walks in the life, and cannot bow to
+your Image but witneſſe againſt it, to be haled out of your meet<g ref="char:EOLhyphen"/>ing
+places, beaten, ſtoned, whipt, ſtockt, impriſoned, which are
+the fruits of <hi>Nebuchadnezzars</hi> nature as is manifeſt this day a<g ref="char:EOLhyphen"/>mongſt
+thoſe, againſt whom he witneſſeth and who is the Impoſt<g ref="char:EOLhyphen"/>or
+and reproaches the holy things of God, the fruit makes mani<g ref="char:EOLhyphen"/>feſt,
+he that hath an eye to ſee let him ſee.</p>
+            <p>And further thou ſayſt that he in the height of his inſolent
+raſhneſſe and madneſſe, ſaith thus the word of the Lord came un<g ref="char:EOLhyphen"/>to
+me ſaying, I will gather my people out of all forms and obſer<g ref="char:EOLhyphen"/>vations,
+and out of all Kindreds, Tongues and Nations, and I will
+power out my ſpirit upon them. And this thou ſayſt he writes
+in a different Character, as if it were all Scripture, by this you
+may ſee it proved what I have accuſed them with, in denying the
+Ordinances, and Adminiſtrations of the Goſpel Churches true,
+and yet this impudent lyar tells me its a lying ſlander they would
+render me a lyar, for telling them the truth, but it ſeems they can
+rather, and with more eaſe deny the accuſation then prove them<g ref="char:EOLhyphen"/>ſelves
+Saints, and ſtand to it, thus when they are pincht they will
+ſay and un ſay, and any thing to evade.</p>
+            <p>Raſhneſſe and madneſſe is thy owne, in ſpeaking evill of that
+thou knoweſt not, the day will declare, the Lord will gather his
+people together according as is declared, <hi>Rev.</hi> 5. 9. And the lye
+and falſe accuſation will ſtill reſt on thee, for charging <hi>W. D.</hi> as
+before written, and the impudent lyar he will not be found, when
+the Lord will ſeperate between the precious and the vile then
+ſhall it be known, who walke in outward forms and deny Chriſt
+the light and thoſe that live in the light, life and power of Chriſt,
+them to lead in the daily croſſe, which keeps them in a pure life,
+and holy converſation, and thy falſe accuſations doth not
+us pinch, neither doe we any thing to evade, but witneſſe
+the truth, againſt thy falſe accuſations, and in patience
+doe finiſh our teſtimony in ſufferings, and all with us that in the
+light walk, are in the ordinances of the Goſpel Church and wit<g ref="char:EOLhyphen"/>neſſe
+the everlaſting Goſpel where all types ſhadows and figures
+are done away, which thou ſo much cryes up and the Lord will
+<pb n="11" facs="tcp:117904:7"/>
+throw thee and all downe and a day of tribulation ſhall come
+upon thee, and thou ſhalt not eſcape except thou repent.</p>
+            <p>And whereas thou reviles us for ſaying that the ſpirit is the
+only rule of faith and life, <hi>Joh.</hi> 16. 13. which thou ſayſt that pro<g ref="char:EOLhyphen"/>miſe
+was made directly to the twelve.</p>
+            <p>
+               <hi>Reply.</hi> Who art thou that limits the holy one, the promiſe of
+his ſpirit is to all who waite on him in the manifeſtation of his ſpi<g ref="char:EOLhyphen"/>rit,
+according to the Teſtimony of Scripture, 1 <hi>Cor.</hi> 12. 7, 8, 9.
+the manifeſtation of his Spirit is given to every one to profit
+withall, for to one is given by the ſpirit the word of wiſedom to
+another the word of knowledge by the ſame ſpirit, to another
+faith by the ſame ſpirit, to another the gifts of healing, by the
+ſame ſpirit, <hi>&amp;c.</hi>
+            </p>
+            <p>And for thy unſavory words which in reproach calls us proud
+worms that vilifie and diminiſh from the Scripture, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Pride is thy owne, we doe not vilifie nor diminiſh the
+Scriptures, we witneſſe them a true teſtimony of Chriſt the life,
+and who in his light walk knowes the truth of the Scriptures
+as it is in Jeſus, <hi>Eph.</hi> 4. 20, 21.</p>
+            <p>And whereas thou ſayſt in confeſſion to what was declared to
+thee that <hi>Abel, Enoch,</hi> and <hi>Noah</hi> had ſaith before the Scriptures
+was written, to which thou quotes <hi>Heb.</hi> 1. 1. God who at ſun<g ref="char:EOLhyphen"/>dry
+times, and in divers manners ſpake in times p aſt unto the fa<g ref="char:EOLhyphen"/>thers
+by the Prophets, hath in theſe laſt dayes ſpoken to us by his
+ſon, and thou ſayſt before there was any thing commit to writeing
+the Lord did more viſibly reveale his will by voice, viſion, Angels,
+<hi>&amp;c.</hi> But ſince he hath committed his whole will unto writeing
+by the Prophets and Apoſtles, theſe former manners are ceaſed,
+and thou ſayſt to look for the ſame diſcoveries, ſtill by voice, vi<g ref="char:EOLhyphen"/>ſion
+or inſpiration, is madneſſe we run into.</p>
+            <p>
+               <hi>Reply.</hi> Thou vain man, who dare to ſay the Lord hath ceaſed
+makeing himſelfe known to his people, by voice viſion or inſpira<g ref="char:EOLhyphen"/>tion,
+holy men of God did ſpeak, and doth ſpeak, as inſpired by
+the ſpirit of God, and mooved by the Holy Ghoſt, 2 <hi>Pet.</hi> 1. 21.
+An<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord hath promiſed in the latter daies <hi>I will power out
+my ſpirit upon all fleſh, Joel. 2. 28, 29. Acts 2. 17, 18. Jer.</hi> 31.
+33, 34. <hi>Heb. 8. 9, 10, 11. Iſa.</hi> 54. 13.</p>
+            <p>All the Children of the Lord, who are led by his ſpirit, doth
+witneſſe theſe Scriptures fulfilled and knoweth the Lord is fatith<g ref="char:EOLhyphen"/>full
+<pb n="12" facs="tcp:117904:8"/>
+according to his promiſe, who will recompence into thy bo<g ref="char:EOLhyphen"/>ſome
+thy juſt reward, for ſpeaking evill of his truth, and whiles
+thou denys the manifeſtation of his ſpirit, which the Lord mani<g ref="char:EOLhyphen"/>feſts
+to his people as is recorded in the Scripture of truth, thy pride
+and confuſion thou haſt made manifeſt, and neither knows <hi>Moſes</hi>
+miniſtry nor the Apoſtles, which thou in a buiſy minde ſpeaks of,
+in thy dark underſtanding, which leads thee to fill thy Book
+with falſe accuſations, as in thy 10th Pa; where thou ſayſt we
+doe not make any clear difference, between the outward declara<g ref="char:EOLhyphen"/>tion
+and the word of faith.</p>
+            <p>
+               <hi>Reply.</hi> For the Simples ſake as we have declared the truth, we
+doe declare it, which is witneſſed with all the Children of
+light, the word of faith is in the heart and in the mouth, and who
+are guided by it their hearts are kept pure, faith purifyes the heart
+<hi>Act.</hi> 15. 9. whether they have the outward declaration yea, or
+nay, and they that have the outward declaration, and though
+they read it, if they minde not the word which is life and light,
+which gave forth the Scripture, they do not live according to the
+Scripture, for they are without faith, who are not guided by the
+word, faith comes not by reading, the outward declaration, faith
+is the gift of God, <hi>Eph.</hi> 2. 8 given to his Children, who diligent<g ref="char:EOLhyphen"/>ly
+hearken to his word, which is life, and the life is the light of
+men.</p>
+            <p>And for thy chargeing us with contradictions, confuſed non<g ref="char:EOLhyphen"/>ſence,
+bitter cenſures and ſhuffles, and how notorious falſe it is
+wherein we ſay, that not any doth know the Scriptures by the out<g ref="char:EOLhyphen"/>ward
+declaration.</p>
+            <p>
+               <hi>Reply.</hi> To the light of Chriſt in all Conſciences we appeale, let
+the righteous judge, a naturall man knows not the things that
+are of God (though he read the outward declaration) for they
+are ſpiritually diſcerned, 1 <hi>Cor.</hi> 2. 14. and none is found worthy
+to open the ſeales of the Book, but the Lyon of the Tribe of
+<hi>Juda, &amp;c. Rev.</hi> 5. 3. 5. and then thou denys Gods ſpeaking to
+his people, by voice viſion or inſpiration, and ſayeſt they run into
+madneſſe that expect any ſuch thing, here thou art found in the
+Contradictions confuſed nonſence, bitter cenſures and ſhuffles, and
+notorious falſhoods, which thou haſt falſely charged us withall,
+and its turned upon thy owne head, and proved out of thy owne
+<pb n="13" facs="tcp:117904:8"/>
+mouth, that while thou art makeing a ſhew in words to maintain
+the Scripture authority, thou denyes both the diſpenſation of the
+ſpirit of God in Chriſt, the light, and the Scriptures which beare
+teſtimony of him, as is manifeſt in the reply to what thou haſt
+writ in the 6. and 8. Pa.</p>
+            <p>And whereas thou in the 11 Pa. calls us deceivers and ſaith to
+thoſe thou calls thy friends, we have them abuſed by the deceite
+and cheats of our owne hearts, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Deceite and cheats thou art proved to be in, and what
+thou endeavors to doe in the deceit of thy heart againſt the truth,
+thou wilt ſee thy hope faile thee, and not a bleſſing but a curſe
+upon thy endeavors; which to thy face is proved, in what is be<g ref="char:EOLhyphen"/>fore
+written to be contrary to the diſpenſation of the ſpirit, and
+Scripture, for which the terror of the Lord ſhall take hold on thee,
+for thy uttering words without knowledge, and ſpeaking evill of
+the things thou knoweſt not, as in the 12. Pa.</p>
+            <p>And whereas thou appeals to them thou calls thy friends how
+their hearts have been heated, and warmed by the power of the
+word and Sacraments <hi>&amp;c.</hi> Which is now in contempt and re<g ref="char:EOLhyphen"/>proach,
+by thoſe that ſeduce you: Which thou charges upon
+us, and ſayeſt thou haſt clearly diſcovered our ſlanders, ſhifts, and
+ſhuffles, and our reproaching the Ordinances, and Inſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tutions
+of our Lord as Heatheniſh by compareing them to that great
+Image of that heathen King, <hi>Dan.</hi> 3. 3. and how we deny the
+Scripture to be a perfect rule of knowing God beleeving in him,
+and liveing unto him, and reproach thee to be a lying ſlander for
+chargeing us with that which is an apparent truth, as thou ſayſt
+thou haſt proved by our lying papers, and that we have reproacht
+they falſely, and the lyes are returned upon our owne heads,
+whileſt thou ſayſt we witneſſe our ſelves perfect and without ſin,
+and have entred the new Jeruſalem into which none ſhall enter
+that makes a lye, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Them thou calls thy friends, who are in the light, with
+all the Children of light, doe witneſſe, that their hearts were ne<g ref="char:EOLhyphen"/>ver
+warmed in Sacraments, no ſuch words is found in Scripture,
+and thou that art pleading for the authority of Scrip<g ref="char:EOLhyphen"/>ture,
+is with the light of Chriſt in all his Saints denyed and thy
+Sacraments, which is not found in Scripture, and in the light thou
+<pb n="14" facs="tcp:117904:9"/>
+art clearly ſeen the ſlanders ſhifts and ſhuffles is thy owne, as is
+manifeſt in the anſwer to the ſame reproach and accuſations, in
+the 2. and 3. Page of thy Book and what we witneſſe is according
+to Scripture, which we owne, and in many things thou haſt writ,
+as before is manifeſt by thy owne words, the Scripture thou de<g ref="char:EOLhyphen"/>nyes,
+ſo on whoſe head the falſhood remains, to the Children of
+light is made manifeſt and the day will further declare it, where<g ref="char:EOLhyphen"/>in
+Chriſt our King ſhall be exalted over all, in whom our perfecti<g ref="char:EOLhyphen"/>on
+and cleanſing from ſin is, and lead us into new <hi>Jeruſalem,</hi> into
+which nothing enters that works abomination or makes a lye,
+but who enter therein are led by the ſpirit of Chriſt in whoſe
+mouth is found no guile, he that hath an ear to heare let him
+heare.</p>
+            <p>And whereas thou ſayſt to ſome of them thou calls thy friends,
+ſome of you have heard <hi>W. Dewſberry</hi> ſay of himſelf, that he,
+was as perfect as that Chriſt hat died at <hi>Jeruſalem,</hi> this is witneſ<g ref="char:EOLhyphen"/>ſed
+by one of credit and fidelity amongſt your ſelves. I forbear his
+name. In <hi>Deweſberry</hi> new birth he thus witneſſeth of him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>
+               <hi>Reply.</hi> Thy ſpirit in the light is ſeen, who hath publiſhed what
+thou hath received from a nameleſſe Author, and thy acuſation
+is falſe, which thou haſt publiſhed to the world, there were never
+any heard <hi>W. Deweſberry</hi> ſay of himſelf that he was as perfect as
+that Chriſt that died at <hi>Jeruſalem,</hi> and that thou calls his new
+birth will be a witneſſe againſt thee, There is no ſuch word ex<g ref="char:EOLhyphen"/>preſt
+by him, as thou ſayeſt this nameleſſe Author hath re<g ref="char:EOLhyphen"/>lated
+of him. In the preſence of God He (called <hi>W. Deweſber<g ref="char:EOLhyphen"/>ry.)</hi>
+doth witneſſe that ſelf is imperfect, and ſelfe righteouſneſſe
+as a filthy ragg and a menſtruous cloth, <hi>&amp;c. Iſa. 64. 6. And he
+doth witneſſe Chriſt Jeſus the true light which lighteth everyone
+that comes into the world, Joh.</hi> 1. 9. which diſcovers the imper<g ref="char:EOLhyphen"/>fection
+and filthyneſſe of ſelf, with all its righteouſneſſe, and his
+perfection is in Chriſt, the light, which he doth witneſſe, the
+ſame Chriſt and no other, but he which ſuffered at <hi>Jeruſalem,</hi>
+who is the brightneſſe of his fathers glory, <hi>&amp;c. Heb.</hi> 1. 3. 13.
+8. which he thou falſely accuſes, as before written, which all the
+Children of light doth witneſſe, the Righteouſneſſe of God in
+Chriſt the light, 2 <hi>Cor.</hi> 5. 21. which for the Simples ſake the
+<pb n="15" facs="tcp:117904:9"/>
+truth is witneſſed forth in the preſence of God, which the Lord
+will clear, from the lyes and ſlanders caſt upon it, and he ſhall
+be known what he is, whom you call a proud polluted worme,
+that dare exalt himſelf to a perfection equall with God, which
+are thy owne words and what thou haſt gathered up from other
+who falſely accuſe as thou doſt, which words were not ſpoken by
+him, thou cals a proud polluted worme, who can bear thy revile<g ref="char:EOLhyphen"/>ings,
+but for the truths ſake, that the Simple do not ſtumble, at
+the way of truth, doth witneſſe againſt thy falſe accuſations and
+revileings, which thou haſt filled thy Book withall.</p>
+            <p>As in the 14. and 15. Pa, Speaking to them thou calls friends
+whom thou ſayſt is ſeduced, and thou declares that thoſe whom
+thou charges with ſeducing them doth teach them to ceaſe from
+all religious duties of commanded worſhip, without ſcruple or
+checke of Conſcience, before they can enjoy God, or be taught
+immediately what to do, firſt put out the true light, and power
+of Conſcience to do his office, by de ſpiſing the means of enlight<g ref="char:EOLhyphen"/>ning,
+and convincing it to act in the ſoul, and then reſolves to
+follow the immediate commands of Conſcience, without queſti<g ref="char:EOLhyphen"/>oning
+the Author of thoſe Lawes at all.</p>
+            <p>
+               <hi>Reply.</hi> Thy accuſation is falſ, we do not teach any to ceaſe from
+all religious duties of commanded worſhip, neither put out the
+true light, we teach all to be obedient to the commands of God,
+who ſaith this is my beloved Son in whom I am wel-pleaſed, hear
+him, <hi>Mat.</hi> 17. 5. And we bear teſtimony of him that he is the
+true light that lighteth every one that comes into the world,
+<hi>Joh.</hi> 1. 9. and convinces the world of ſin, Righteouſneſſe and
+Judgement, <hi>Joh.</hi> 16. 8. and he alone commands in the Conſci<g ref="char:EOLhyphen"/>ence
+for God, and is the Author of the perfect Law, handed in the
+hand of a mediator, to whom we exhort all to be ſubject, and in
+whom all the Children of light walk, <hi>Col.</hi> 2. 6.</p>
+            <p>And for thy expreſſing, a depth of deceit and deluſion, which
+thou charges upon us, which is found in thy ſelf who hath made
+lyes thy refuge to ſlander the innocent which is further manifeſt
+in thy 16. Pa.</p>
+            <p>Thou ſayſt we take no notice of Scripture authority, as if they
+were altogether out of date, which falſe accuſation is witneſſed
+againſt in what is returned in anſwer to the preface of thy
+Book.</p>
+            <p>
+               <pb n="16" facs="tcp:117904:10"/>
+And in the 17. and 18. Pa. thou charges us with impudent fore<g ref="char:EOLhyphen"/>heads
+to make a ſhew of one thing, and intend another, purpoſe<g ref="char:EOLhyphen"/>ly
+minded to deceive, and yet they tell us often that as they
+write ſo they meane, and ſpeak the truth in plaineſſe, moſt hor<g ref="char:EOLhyphen"/>rible
+hypocriſy and deceit, which nothing but a lying and a kna<g ref="char:EOLhyphen"/>viſh
+head, dare goe about to excuſe, <hi>&amp;c.</hi>
+            </p>
+            <p>And all thoſe unſavory words as before written, wherein thou
+ſayſt we have diſcovered to purpoſe the deceit of our anſwer, in
+ſaying the revelations of Chriſt are according to Scripture, and
+where the new Covenant is witneſt, the law is written in the
+heart, and the witneſſe and teſtimony of Jeſus within bearing
+witneſſe with our ſpirits, that we are the Sons of God.</p>
+            <p>
+               <hi>Reply.</hi> Doing any thing of purpoſe to deceive, through hy<g ref="char:EOLhyphen"/>pocriſye
+or knaviſh heads, we deny, and in the preſence of God
+we ſpeak the truth in plaineſſe, and doe witneſſe there is no de<g ref="char:EOLhyphen"/>ceit
+in ſaying the revelations of Chriſt are according to Scripture
+and all in the new Covenant do know, the law of God written
+in their hearts, and the witneſſe or teſtimony of Jeſus, within, 1
+<hi>Jo.</hi> 5. 10. bearing witneſſe with their ſpirits that they are the
+Children of God. <hi>Ro.</hi> 8. 16. and this declared is neither deceit<g ref="char:EOLhyphen"/>full
+nor knaviſh, which is the unſavory words thou charges on us,
+let the truth of God in all Conſciences judge, to whom they be<g ref="char:EOLhyphen"/>long,
+the Scriptures we are not againſt, they bear teſtimony of
+Chriſt the light whom we witneſſe the way to the father. <hi>Mat.</hi>
+1. 27. <hi>None knows the father but the Son, and he to whom the
+Son will reveale him,</hi> by the revelation of the Spirit of God, is
+the things of God knowne to his people, 1 <hi>Cor.</hi> 2. 9. 10. 13.
+<hi>Ro.</hi> 8. 11. 16. according as is recorded we witneſſe the Scrip<g ref="char:EOLhyphen"/>tures,
+fulfilled in Chriſt the light who is our life, <hi>Col.</hi> 3. 3. 4.</p>
+            <p>And whereas thou queries, did ever any read of the law and
+teſtimony in the heart, and that the law and teſtimony in the
+heart, is the law of the new Covenant.</p>
+            <p>
+               <hi>Reply.</hi> Who hath read the Scripture in the fear of God, hath
+read what the Lord hath promiſed as declared, <hi>Iſa.</hi> 8. 16. Bind
+up the teſtimony, ſeal the law, among my Diſciples, and <hi>Jer.</hi> 31.
+33. <hi>This ſhall be the Covenant. I will make with the houſe of Iſrael,
+in thoſe daies ſaith the Lord, I will put my Lawes in their inward
+<pb n="17" facs="tcp:117904:10"/>
+parts, and write it in their hearts, Heb.</hi> 8. 10 11, 12. and the
+law written in the heart we witneſſe, and the Lord faith<g ref="char:EOLhyphen"/>ful
+in performing according to his Promiſe in the new Cove<g ref="char:EOLhyphen"/>nant.</p>
+            <p>And thou goes on in the 19. and 20. Pa, calling us impoſtors
+and pervertors of the new Covenant, and to be in Idle proud
+fancyes, and itching humors of our owne brains in our Apoſtate
+Condition.</p>
+            <p>
+               <hi>Reply.</hi> We in the light can bear thy reproach, and have wit<g ref="char:EOLhyphen"/>neſſed
+the truth that it may ſtand a witneſſe againſt thy revileings,
+and in the Lord we reſt, who will make manifeſt, whether thou or
+we be the perverters of the new Covenant, and guilty of what
+thou charges us with.</p>
+            <p>And whereas thou in the 22. Pa. ſayes that <hi>W. Deweſberry.</hi>
+tells us that the mighty day of the Lord is appeared in the
+North of England, and is riſeing towards the South, and ſhall o<g ref="char:EOLhyphen"/>verſpread
+this Nation, and all the Natious of the world, <hi>&amp;c.</hi>
+what the mans fancy and deſigne is in bruiting and makeing ſuch
+a noiſe of the appearance of the mighty day of the Lord judge ye,
+I am ſure he hath ſufficiently diſcovered his owne folly in blazing
+abroad ſuch dreams of his owne lying heart, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> In thy 2. Pa. thou hath enlarged thy ſelf concerning
+that Book calling it a lying paper, <hi>&amp;c.</hi> and the truth is witneſſed
+in anſwer to thy charge, and this in anſwer to what is here writ<g ref="char:EOLhyphen"/>ten,
+fancies, bruitiſhneſſe, folly dreams, and lyes, <hi>W. Deuſberry</hi>
+denys the truth he hath declared, as the Lord hath him moved,
+in faithfullneſſe to the ſouls of all people, that they be not found
+the ſloathfull ſervants, putting the day of the Lord a farr off, in
+this his day wherein the houre of his righteous judgement is
+come, <hi>(Rev.</hi> 14. 7.) to all that wait on him, the truth is decla<g ref="char:EOLhyphen"/>red,
+that all men may prepare in the light the Lord to meet, and
+no longer in ſloathfulneſſe remain, leaſt he come upon them as a
+theife in the night, and if the day of the Lord do not ariſe over
+all the world, and the kingdoms of the world, become the king<g ref="char:EOLhyphen"/>domes
+of our Lord and his Chriſt, and the Lord, performe not as
+is declared, then ſay the Lord harh not ſpoken by me who is
+known to the world by name <hi>William Dewſberry.</hi>
+            </p>
+            <p>And in the 22. Pa. thou ſays we have ſet our ſelves in the
+<pb n="18" facs="tcp:117904:11"/>
+Throne of Chriſt judging the whole world.</p>
+            <p>
+               <hi>Reply.</hi> Thy accuſation is falſe, ſelf we deny, to Chriſt we are
+ſnbject who ſits on his Throne, and is come and comeing in his
+Saints to judge the world, <hi>Jude 14, 15. 1 Cor.</hi> 6. 2. and 2.
+5.</p>
+            <p>And in the 23. Pa. thou ſayſt, why do not we command the
+dead to riſe, and appear before us, and many other unſavory
+words are there expreſt.</p>
+            <p>Reply. A wicked and adultrous generation, ſhall ſeek after a
+ſigne, and there ſhall no ſigne be given it, but the ſigne of the Prophet
+Jona, Mat. 16. 4.</p>
+            <p>And whereas thou charges <hi>Howgill,</hi> and <hi>Burrough</hi> (as thou
+calls them) with pernitious blaſphemous opinions.</p>
+            <p>
+               <hi>Reply.</hi> Thy accuſation is falſe, they are faithfull men, ſerveing
+their generation in the light, Miniſters of Chriſt, in whom is wit<g ref="char:EOLhyphen"/>neſſed
+the God head dwelling bodily, <hi>Coll.</hi> 2. 9. and in him
+were one in God, they that joyne to the Lord are one ſpirit, 1
+<hi>Cor.</hi> 6. 17. he that can receive it let him.</p>
+            <p>And whereas thou in the 29. Pa. ſaith that the Revelations of
+Chriſt that are according to Scripture, are either texts of Scrip<g ref="char:EOLhyphen"/>ture,
+expreſſed, or rationall deductions conſequences and conclu<g ref="char:EOLhyphen"/>ſions;
+that naturally flow from particular paſſages of Scriptures,
+and not any other revelations can be pleaded for as rule.</p>
+            <p>
+               <hi>Reply.</hi> Thy dark minde is ſhut out from knowing the revela<g ref="char:EOLhyphen"/>tions
+of Chriſt, and though thou ſay that anſwer that was retur<g ref="char:EOLhyphen"/>ned
+to theſe words was not to purpoſe, it ſtands a witneſſe againſt
+thee, and will be found to purpoſe in the light, when thy reward
+thou ſhalt have, for all thy unſavory words expreſt in thy
+Book.</p>
+            <p>And in the 33. Pa. where thou falſely accuſes us, that we will
+allow of no Laws of God nor Scripture, but the Revelations and
+edicts of our owne bewitched hearts, <hi>&amp;c.</hi> And when thou haſt
+reviled us with falſe accuſation as before written, thou beſeeches
+thoſe thou call, thy dear friends to be ſerious in their thoughts of
+what thou haſt written, in diſcovering our deceits and blaſphemies
+denying the rule that all things are to be tryed by, and make
+themſelves the abſolute rule, and we muſt not queſtion what they
+ſay though it be never ſo inſolent, and to be abhorred of all ſober
+<pb n="19" facs="tcp:117904:11"/>
+Chriſtians <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Thou hath brazned thy face to ſlander the truth of
+God, with lyes and blaſphemies, which is the foundation of all
+hereſy, and there thou art found and thy accuſation is falſe,
+Chriſt the rule that all things is to be tryed by, we owne and
+our ſelves deny, and to the light of Chriſt in all Conſciences, we
+appeale, whether thou or we deny the rule, thou that ſayſt the
+revelations of Chriſt, are either texts of Scripture expreſſed, or
+rationall deductions conſequences, <hi>&amp;c.</hi> as before written, or we
+who witneſſe Chriſt the true light, revealed by the father, <hi>and
+none knows the father but the Son and he to whom the Son will re<g ref="char:EOLhyphen"/>veale
+him, Mat. 11. 27. Luke</hi> 10. 22, Let all that are in Chriſt
+with ſobriety in the light judge.</p>
+            <p>And for the reſt of thy ſlanders in the 37. and 38. Pa. where
+thou ſays, theſe miſerable worms uncovenant themſelves and un<g ref="char:EOLhyphen"/>Chriſt
+themſelves, as if they cared not for grace and mercy in ſtan<g ref="char:EOLhyphen"/>ding
+before God, denying the Scripture, <hi>&amp;c.</hi> and in the 40. Pa.
+thou ſayſt of thoſe in ſcorne called Quakers, thou can ſafely ſay
+they deny the benefit that comes to the Church, by Chriſt ſuffer<g ref="char:EOLhyphen"/>ing
+in that fleſh, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he received from the Virgin <hi>Mary,</hi> or elſe
+deny it to be are all body of fleſh and ſo make it but a tipe and a
+figure of Chriſt in the Saints who are his true real body, which he
+now ſuffers in, and by his ſuffering makes ſatisfaction, for them
+makeing the death of the Croſſe of none effect.</p>
+            <p>
+               <hi>Reply.</hi> The miſerable worms that uncovenant themſelves and un<g ref="char:EOLhyphen"/>Chriſt,
+themſelves, who denys Chriſt the light thou art found to
+be one, whom thy dark minde art working abomination, and
+makeing lies, which thou haſt publiſhed to the world, in thy
+Books, and thy place thou may read as is recorded, <hi>Rev.</hi> 21. 27.
+and the reſt of thy accuſations, recorded in 40. Pa. we witneſſe
+againſt, and for the Simple ſake declare as followeth that bene<g ref="char:EOLhyphen"/>fit
+came to the Church by Chriſt ſuffering, in that body God
+gave which was born of the Virgin <hi>Mary,</hi> and with one offering
+hath Chriſt perfected for ever, them that are ſanctified, <hi>Heb.</hi> 10.
+14. and theſe are his Saints in whom he is now revealed, who are
+his body, <hi>Eph.</hi> 1. 23. which now ſuffered by thee, and all that are
+of the murdering generation, who bore falſe witneſſe againſt
+Chriſt, when he was in that body which they crucified at <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi>
+               <pb n="20" facs="tcp:117904:12"/>
+and thou haſt manifeſt thy ſelf to be of the ſame murder<g ref="char:EOLhyphen"/>ing
+generation, who hath publiſhed to the world the falſe wit<g ref="char:EOLhyphen"/>neſſe
+againſt the innocent, to perfect thy evill intent, towards
+the body of Chriſt, if the Lord prevent thee not, but thou ſhalt
+know the Lord faithfull, that thou and all that formes your
+tongues againſt him ſhall fall in judgement, <hi>Iſa.</hi> 54. 17.</p>
+            <p>And what is charged upon thee in anſwer to thy reply to the
+anſwer to the third queſtion, that thou ſets at nought the corner
+ſtone, and prefers the teſtimony of him before him, limitting the
+eternall ſon of God as thou hath in what is Printed in the 55. Pa.
+where thou ſpeaks of the Scripture that they are deſigned of
+God, to be the only inſtrument and veſſel of his ſpirit, to convey
+the knowledge of Chriſt as Redeemer to loſt man, and without
+them Chriſt is not knowne at all to any ſaveing ends.</p>
+            <p>
+               <hi>Reply.</hi> Who art thou that dare thus utter words without
+knowledge, Chriſt is knowne where the Father reveales him to be
+the ſouls life, whether they have the Scripture yea, or nay, accor<g ref="char:EOLhyphen"/>ding
+to the will of God<g ref="char:punc">▪</g> he makes knowne his minde of his peo<g ref="char:EOLhyphen"/>ple,
+who wait upon him in his feare, and the ſecrets of the Lord are
+with thoſe that fear him, <hi>Pſal.</hi> 25. 14. And the ſpirit of the
+Lord is witneſſe with our ſpirits that we are the children of God,
+O man repent, leaſt the Lord cut thee off, and thou periſh in thy
+gainſayings.</p>
+            <p>And further what thou hath written in Reply, to what was
+returned in anſwer to the queſtion before mentioned, the moſt
+of the falſe accuſations is anſwered, in what was returned to the
+former part of the Book and all thy falſe accuſations and reproa<g ref="char:EOLhyphen"/>ches
+denyed with the light, and for the Simples ſake there is retur<g ref="char:EOLhyphen"/>ned
+in anſwer to thy queſtions which thou haſt propoun<g ref="char:EOLhyphen"/>ded.</p>
+            <p>1. <hi>Qu.</hi> Where we read of a perfect law of God in the heart,
+and where it is made the Rule and Ground of the Saints obedi<g ref="char:EOLhyphen"/>ence.</p>
+            <p>
+               <hi>Anſ.</hi> The Law of God is perfect, <hi>Pſal.</hi> 19. 7. and is the rule
+to which the Saints are to walke in obedience to, and to be gui<g ref="char:EOLhyphen"/>ded
+by, <hi>Pſal.</hi> 119. 12. and the Law to be in the heart is proved,
+<hi>Pſal. 40. 8. I delight to do thy will O God, yea thy law is within
+my heart.</hi>
+            </p>
+            <p>
+               <pb n="21" facs="tcp:117904:12"/>
+2. <hi>Qu.</hi> Whether the law in the heart be under another Co<g ref="char:EOLhyphen"/>venant,
+diſtinct from, the perfect law of God declared in Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            <p>3. <hi>Qu.</hi> What were to underſtand by the law of God i n the
+heart, which is the ſame with Scripture, whether the 10. Com<g ref="char:EOLhyphen"/>mandements
+written in Tables of ſtone onely, or all thoſe poſi<g ref="char:EOLhyphen"/>tive
+Precepts of Goſpel worſhip and obedience conjoyned with
+them alſo.</p>
+            <p>
+               <hi>Anſ.</hi> To thy 2. and 3. Queſtion in the old Covenant the
+Law was written in Tables of ſtone, which Law haveing a ſhadow
+of good things to come and not the very image of the things,
+can never with thoſe ſacrifices which they offered year by year
+continually make the comers thereunto perfect. <hi>Heb.</hi> 10. 1. And
+when he came who ſaith, Lo I come to do thy will O God, he ta<g ref="char:EOLhyphen"/>keth
+away the firſt that he may eſtabliſh the ſecond, ver. 9. by
+which will we are ſanctified thorow the offering of the body of
+Jeſus Chriſt once for all, ver. 10. and by one offering he hath
+perfected for ever them, that are ſanctified, whereof the holy
+Ghoſt is a witneſſe to us, as he ſaid before, <hi>this is the covenant that
+I will make with them, ſaith the Lord, I will put my Lawes in
+their hearts, and in their minds will I write them, ver.</hi> 14, 15, 16.
+<hi>Jer.</hi> 31. 33.</p>
+            <p>4 <hi>Qu.</hi> Whether the Law in the heart, without the uſe of
+Scriptures make any Evangelical diſcoveries of the perſon, na<g ref="char:EOLhyphen"/>tures,
+and Offices of Chriſt, as he is Redeemer of loſt man?</p>
+            <p>
+               <hi>Anſ.</hi> Thy feigned words we wave, the truth we witneſſe,
+the Law in the heart witneſſed in the New Covenant, Chriſt is
+known to be King of Kings, and Lord of Lords, 1 <hi>Tim.</hi> 6. 15.
+And the faithfull High Prieſt, <hi>Heb.</hi> 2. 17. 3. 1. 4. 15. 5. 6 7.
+26. 10. 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. who hath made us Kings and Prieſts to God and
+his Father, <hi>&amp;c. Rev.</hi> 1. 6.</p>
+            <p>5 <hi>Qu.</hi> Whether all ſhall be ſaved, that have the Law of God
+written in their hearts, by virtue of the New Covenant, or any
+be ſaved that live to years of diſcretion, that know not Chriſt,
+as the Scriptures teſtifie of him, in order to his coming to the
+world to ſave ſinners?</p>
+            <p>
+               <hi>Anſ.</hi> All are ſaved, who are guided by the righteous Law of
+the Spirit of life in Chriſt, which ſets them free from the Law of
+<pb n="22" facs="tcp:117904:13"/>
+ſin and death, <hi>Rom.</hi> 8. 2. And what years ſoever any live unto,
+they have no diſcretion to know Chriſt, as the Scriptures teſtifie
+of him, but they who in his light waits upon him, to be guided
+by him; for who hath not the Spirit of Chriſt, is none of his,
+<hi>Rom,</hi> 8. 9.</p>
+            <p>And for the reſt of thy aſperſions, and revilings thou haſt
+writ, calling us deceivers that fear the Authority of man, or elſe
+we would deny Chriſt himſelf.</p>
+            <p>
+               <hi>Reply.</hi> Chriſt we do not deny, but him we own, who reſpects
+no mans perſon, <hi>Rom.</hi> 2. 11. and in him no fear of man is, and
+we in him Reigns over thee, and all the authority of the power
+of darkneſſe, that ſtands in oppoſition to Chriſt, the Son of God,
+to whom every knee muſt bow, <hi>Phil.</hi> 2. 10. the day ſhall declare
+it.</p>
+            <p>And in what thou haſt replied, to the Anſwer to the fourth
+Queſtion, which thou charges to be untrue, to ſay <hi>That man in
+the fall, as he ſtands in the ſtate of corrupt nature, hath not there<g ref="char:EOLhyphen"/>in
+any light without Chriſt, to doe any thing acceptable to God,</hi> &amp;c.
+Which thou goes about to prove the contrary, and ſaith there is
+the light and uſe of reaſon, and underſtanding faculties, though
+corrupted.</p>
+            <p>And further thou ſayes, This light of corrupt reaſon, as be<g ref="char:EOLhyphen"/>fore
+expreſt, preſents to the conſcience good and evill, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> In the light thou art ſeen to be in the corrupt Foun<g ref="char:EOLhyphen"/>tain,
+from whence all theſe corrupt words hath come, which thou
+haſt Printed in thy Book, and thy words are not true. Corrupt
+reaſon of man doth not preſent to the conſcience, things good
+and evill, a corrupt Tree cannot bring forth good fruit, <hi>Mat.</hi> 7,
+18. There is nothing makes manifeſt darkneſſe, but light, <hi>Epheſ.</hi>
+5. 15. which all men in the Fall is gone from, out of the way,
+and there is none that doth good, no not one, <hi>Rom.</hi> 3. 9, 10,
+11, <hi>&amp;c.</hi> And the naturall man receives not the things that are
+of God, nor can he know them, becauſe they are ſpiritually di<g ref="char:EOLhyphen"/>ſcerned,
+1 <hi>Cor.</hi> 12. 14. And all the righteouſneſſe of man in
+this ſtate, is as a filthy rag, and a menſtruous cloath, <hi>Iſa.</hi> 64. 6.
+And this is the ſtate of man in corrupt nature: And the light
+that convinces man of this dark and corrupt eſtate he is in, is
+the light of Chriſt that convinces the World of ſin, righteouſ<g ref="char:EOLhyphen"/>neſſe,
+<pb n="23" facs="tcp:117904:13"/>
+and judgement, <hi>John</hi> 16. 8. So we that were ſometimes
+darkneſſe, are now light in the Lord, <hi>Epheſ.</hi> 5. 8. And who
+walk in the light, there is no occaſion of ſtumbling, 1 <hi>John</hi> 2.
+10.</p>
+            <p>And whereas thou ſayeſt, Thou knowes we will lye, as thou
+haſt made it manifeſt.</p>
+            <p>
+               <hi>Reply.</hi> It is not ſo, thou hath not made yet manifeſt any lye
+that we have ſpoken, by any truth thou hath declared.</p>
+            <p>And thou goes on, as in thy 89 Page thou ſayes, The rational
+ſoul of man corrupted, is called the candle of the Lord, which we
+invent to be Chriſt; which is falſe, we deny that the corrupt
+ſoul of man is the candle of the Lord, or Chriſt.</p>
+            <p>And further thou ſayes, It was thy intended work to goe
+thorow all the Anſwers to the ten Queſtions, but for want of
+thy paper, which thou ſa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es we detained from thee, contrary to
+our Promiſe.</p>
+            <p>In which thou ſays not true, for the promiſe was to thee thou
+ſhould have a coppy of thy paper which thou ſent to us when it
+was ready for thee, which was not then written, neither was any
+time ſet down of thy haveing it, and as way was made, a coppy
+according to our promiſe, came to thy hands.</p>
+            <p>And in the cloſe of thy Book, thou goes on as thou begun,
+ſaying we deny Scriptures as to the end they were intended, and
+reproach the Ordinances of the Lord Jeſus, which the Scriptures
+teach, under the notion of heatheniſh worſhips, <hi>&amp;c.</hi> which is
+anſwered to in the truth declared, a witneſſe to ſtand againſt all
+the reproaches, that thou haſt caſt upon the truth of the liveing
+God, and the God thou art pleading for cannot crown thee with
+honour, in the day wherein the liveing God will exalt his ſon,
+and clear the innocency of his people, then ſhall the God whoſe
+worſhip thou art defending, be confounded, and confuſion
+and ſhame ſhall ſtop thy mouth, and if this come not to paſſe as
+declared, then ſay the Lord hath not ſpoken by me.</p>
+            <p>And in that thou calls thy Poſt-ſcript in the end of thy Book,
+the things therein thou falſely accuſes us with, and calls them the
+Rocks which we are to manifeſt how we ſhall eſcape, which is
+clearly made manifeſt in what is written in anſwer to thy Book.
+Only this, where thou ſayes we make no difference between the
+<pb n="24" facs="tcp:117904:14"/>
+viſible profeſſing Church, and the Pagan world, all may be ſaved
+alike if they will, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> They that make a viſible Profeſſion of Chriſt, and
+deny to walk in the light of his Spirit, are of the world that lies
+in wickedneſſe, 1 <hi>John 5. 19. Mat.</hi> 7. 21. as well as them thou
+calls the Pagan world; and not any can be ſaved by what they
+doe in their own wills, all that is done in that nature is abomina<g ref="char:EOLhyphen"/>tion
+to God, as is plain in the Anſwer to what thou haſt writ in
+the 70 Page. <hi>It is not of him that willeth, nor of him that runneth,
+but of God that ſhewes mercy,</hi> Rom. 9. 16. which he makes ma<g ref="char:EOLhyphen"/>nifeſt
+in the riches of his grace, in Chriſt the light, who leads all
+that obey him, in the ſtrait way of ſelf-deniall, and the daily
+croſſe, in obedience to the will of God, which is our ſanctificati<g ref="char:EOLhyphen"/>on:
+<hi>And he that ſanctifieth, and they that are ſanctified are one,
+Heb. 2. 4. 1 Theſſ.</hi> 4. 31. He that can receive it, let him.</p>
+            <p>For the truths ſake, that the ſimple be not turned out of the
+way, by the falſe accuſations, reproaches, and aſperſions thou haſt
+caſt upon it, what is before written in Anſwer to thee, the truth
+doth clear, and the Anſwer to thy ten Queſtions, which thou
+charges to be deceitfull, that they may witneſſe for themſelves
+againſt what thou haſt caſt upon them, that all that deſire to
+know the truth may them read. The Queſtions and Anſwers
+are as followeth.</p>
+            <p>1 <hi>Qu.</hi> Whether the writings of the Scriptures are a declaration
+of the Holy will and mind of God, that neceſſarily oblige the ſervants
+of God that profeſſe them, to believe and obſerve whatever is revea<g ref="char:EOLhyphen"/>led
+therein, to be believed and done; and whether the Scripture
+alone be a perfect Rule of faith and life, unto all of years amongſt
+us<g ref="char:punc">▪</g> yea or nay?</p>
+            <p>
+               <hi>Anſ.</hi> The Scriptures is a true declaration of the things be<g ref="char:EOLhyphen"/>lieved
+amongſt the Saints, and a true teſtimony of Jeſus Chriſt,
+but not any doth them know, neither can believe what is written
+therein, by the outward declaration and teſtimony of Scripture,
+but by the word of Faith, which is in the heart, and in the mouth,
+which is the word of Faith which we Preach, <hi>Rom.</hi> 10. 7, 8.</p>
+            <p>2 Qu. <hi>Whether any other Revelations and Obſervations, not
+to be found in the Scripture, be binding to the conſciences of thoſe</hi>
+perſons that have the benefit of the Scripture, or whether ſuch
+<pb n="25" facs="tcp:117904:14"/>
+revelations or dictates within a mans heart and ſoul, be as bind<g ref="char:EOLhyphen"/>ing
+to the conſcience, and to be urged to a mans ſelf, or others,
+as the Scriptures are.</p>
+            <p>
+               <hi>Anſ.</hi> The revelations of Jeſus Chriſt, is according to Scrip<g ref="char:EOLhyphen"/>ture,
+which Revelations binds up the Teſtimony, and ſeals the
+Law in the hearts of his Diſciples; and what dictates is in the
+conſcience or heart of man, contrary to the Law and Teſtimony,
+is not to be regarded, but diſowned and judged with the light
+which comes from Chriſt, the Saints life, who guides them in
+a pure life, and holy converſation, according to Scripture, <hi>Iſa.</hi> 8.
+20.</p>
+            <p>3 <hi>Qu.</hi> Whether any thing beſides the Scripture, is conſtitu<g ref="char:EOLhyphen"/>ted
+of the bleſſed God to reveal Chriſt as Redeemer and Savi<g ref="char:EOLhyphen"/>our,
+to the ſpirit of miſerable loſt man, to bring man unto hap<g ref="char:EOLhyphen"/>pineſſe,
+or whether corrupt man without the knowledge of Scrip<g ref="char:EOLhyphen"/>ture,
+may ordinarily attain unto ſalvation, yea or nay?</p>
+            <p>
+               <hi>Anſ.</hi> No man can come to the Son any other way, but
+whom the Father draweth by the power of his unlimited Spirit,
+and never any ſhall know the Father, but he to whom the Son
+reveals him; and he that thinks to attain the way to eternall
+life, by reading the letter of the Scripture, and regards not the
+light that comes from Chriſt, that witneſſeth for God in the ſe<g ref="char:EOLhyphen"/>cret
+of the heart and conſcience, he deceives himſelf, for the my<g ref="char:EOLhyphen"/>ſtery
+of eternall life is ſealed up in the ſealed Book, from all the
+Sons and Daughters of men; and none ſhall ever know it by the
+outward teſtimony of Scripture, but by the inſpiration of the
+Spirit of Jeſus Chriſt, the Lyon of the Tribe of <hi>Judah,</hi> who is
+found worthy to open the ſeals of the Book, and <hi>is the way, the
+truth, and the life,</hi> to all that in his light wait, his power them to
+guide, in faithfull obedience to the righteous and perfect Law of
+God, written in the heart, for the exerciſe of the conſcience,
+which keeps them void of offence towards God, and towards
+men, according to teſtimony of Scripture, <hi>Acts</hi> 24. 16. 23. 1.</p>
+            <p>4 <hi>Qu.</hi> Whether that light of conſcience which is more or
+leſſe in all ſince the fall, be the remains or ſome reliques left of
+the firſt <hi>Adam,</hi> in reference to the Covenant of works, or whe<g ref="char:EOLhyphen"/>ther
+common to all, from the redemption of the ſecond <hi>Adam,</hi>
+as flowing from the Covenant of grace, or how elſe? I deſire
+<pb n="26" facs="tcp:117904:15"/>
+you would clearly expreſſe your thoughts in this.</p>
+            <p>
+               <hi>Anſ.</hi> Man in the fallen eſtate hath not any light remains in
+him, to guide him to doe any thing well pleaſing to God, as he
+ſtands in the ſtate of corrupt nature; for all his righteouſneſſe is
+as filthy rags, and as a menſtruous cloth, the light that convin<g ref="char:EOLhyphen"/>ceth
+man and woman of the evill of their hearts, and diſcovers
+the filthineſſe of all their own righteouſneſſe, is the light that
+comes from Chriſt, the true light that lighteth every man that
+comes into the world, <hi>John</hi> 1. 9. And this light is not common
+to man by nature, it is the great gift of God, his grace that hath
+appeared, and teacheth all that are guided by it, to deny all un<g ref="char:EOLhyphen"/>godlineſſe<g ref="char:punc">▪</g>
+and worldly luſts, and to live godily and ſoberly in
+this preſent evill world; and all that walk contrary to the light,
+this is their condemnation, the light, <hi>John</hi> 3. 19.</p>
+            <p>5 <hi>Qu.</hi> Whether the end of God in giving and continuing
+this kind of light to all men in the world, was not to be a re<g ref="char:EOLhyphen"/>ſtraint
+and curb to the exorbitant luſts of ſo corrupt a creature
+as man, and ſo made ſubſervant to God in the Government of
+the world, in order to the peace and continuance of the ſame, and
+to leave all without excuſe, Or what beſides this the end of God
+was, that this kind of light ſhould be minded and improved ac<g ref="char:EOLhyphen"/>cording
+to the power of man by what he is from creation or uni<g ref="char:EOLhyphen"/>verſall
+grace or redemption, in order to eternall happineſſe; and
+the not heeding this light in all men, ſhall be the only condem<g ref="char:EOLhyphen"/>nation
+of the world. Or whether this light be the Goſpel, or
+Chriſt, or his Spirit, or whether it be a light either equall with,
+or inferiour to, or of a different kind with the Scriptures?</p>
+            <p>
+               <hi>Anſ.</hi> The light which comes from Chriſt is given of God,
+to guide the creature out of its own ſtrength and power, to
+Chriſt the mighty power and wiſedome of God, the creature
+to guide with moderation, in the uſe of all creatures, and to or<g ref="char:EOLhyphen"/>der
+and govern the creation to the praiſe and glory of God:
+And this light is of the pure nature of God, and leads to Chriſt
+the everlaſting Goſpel. And this is the condemnation of the
+world, that hates the light which comes from Chriſt, becauſe
+they believe not in him, <hi>John</hi> 3. 18.</p>
+            <p>6. <hi>Qu.</hi> Whether the light of Conſcience the light of Scrip<g ref="char:EOLhyphen"/>ture,
+the light of providence, the light of grace, ought not to
+<pb n="27" facs="tcp:117904:15"/>
+be preſt upon all, to reforme them, and draw them up to a high<g ref="char:EOLhyphen"/>er
+pitch of Chriſtian obedience, according to the written word of
+the Lord.</p>
+            <p>
+               <hi>Anſ.</hi> Thou with all who are in the light is ſeen to be in thy
+wiſedome, querying after many lights, but as is formerly written,
+in anſwer to thy 4. <hi>Queſt.</hi> the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is but one true light, Chriſt who
+lighteth every one that comes into the world, and all his miniſters
+turnes the mindes of people from darkneſſe to Chriſt the true
+light, in it to waite on him for his power to deſtroy the power
+of Satan, and to lead in the ſtraite narrow way of ſelf denyal and
+the daily Croſſe, which is the way into the Kingdome of God,
+<hi>who ever will be my Diſciple,</hi> (ſaith Chriſt) <hi>he muſt deny himſelf,
+and take up his Croſſe daily, and follow me, Luke</hi> 19. 23.</p>
+            <p>7. <hi>Qu.</hi> Whether a ſinner condemned by the Law, is made
+juſt before God, unto eternall life, by an inherent power within,
+or worke of Sanctification, or whether by the ſatisfaction, and
+ſuffering of Chriſt in mans nature, and behalfe,, reſted on by
+faith.</p>
+            <p>
+               <hi>Anſ.</hi> The Creature whoſe Conſcience is awakened by the
+light, the righteous Law of God in the heart, which ſhews it, its
+ſinfull ſtate, and ſtands condemned before the Throne of God for
+diſobeying the light, ſhall never be juſtified by any ſelf righte<g ref="char:EOLhyphen"/>ouſneſſe,
+for it is uncleanneſſe in the ſight of God, for juſtification
+is through faith in the Lord Jeſus, but this faith which layes hold
+on Chriſt for juſtification, is not attained by any power the crea<g ref="char:EOLhyphen"/>ture
+hath of its ſelf, neither can any know it, who receive honor
+one of another, <hi>Joh. 5. 44. How can ye beleeve who receive honor
+one of another, and ſeek not the honor that comes from God onely,</hi>
+faith is the gift of God, given to the Children of light, who waits
+in the light on the Lord, in the way of his judgements, <hi>Iſa.</hi> 26. 8.
+till judgement be brought forth into victory, that the creature be
+brought into true poverty, of ſpirit, for ever to periſh, without
+free redemption in the Lord Jeſus, which the father in his appoin<g ref="char:EOLhyphen"/>ted
+time, reveales the ſon to the ſoule, that ſtands condemned
+before him, and by the arme of his mighty power, creates it to a
+lively hope, and he that hath this hope in him purifieth himſelf,
+even as he is pure, ſo whom he juſtifieth he ſanctifieth, and he
+that ſaith he is juſtified and liveth in ſin deceiveth himſelf, for
+<pb n="28" facs="tcp:117904:16"/>
+faith purifieth the heart, and purgeth the Conſcience from
+dead works to ſerve the liveing God, which is witneſſed in the
+Children of light, according to teſtimony of Scripture. <hi>Heb.</hi> 9.
+14.</p>
+            <p>8. <hi>Qu.</hi> Whether the perſon or eſſence of Chriſt, or his ſpi<g ref="char:EOLhyphen"/>rit
+dwell in any upon earth, or whether by his gifts and graces
+onely, or whether all thoſe that have Chriſt in them, muſt forſake
+all outward teaching of men, and whether the Scripture be but a
+dead letter, and of no uſe, otherwaies then Chriſt within doth
+witneſſe unto them.</p>
+            <p>
+               <hi>Anſ.</hi> He that knows not Chriſt to be in him is a reprobate,
+for he that hath not the Spirit of Chriſt is none of his, and he
+that is guided by the ſpirit of Chriſt, needs not any teaching of
+man, <hi>(for you ſhall not neede to teach one another, for all my Chil<g ref="char:EOLhyphen"/>dren
+ſhall be taught of me, ſaith the Lord God,)</hi> and the Scripture
+is but a killing letter, but of uſe in its place,d teſtimony of Chriſt,
+but not any knows Chriſt by it, for Chriſt is known by the light
+of his ſpirit, which gave forth the Scriptures, and all that are gui<g ref="char:EOLhyphen"/>ded
+by his ſpirit knows the Scripture in the truth as it is in Jeſus,
+<hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph.</hi> 4. 21.</p>
+            <p>9. <hi>Qu.</hi> Whether the converſion that was wrought upon
+the ſouls of many, under the ordinary outward miniſtry of the
+word, in our publique aſſembles, turning men from darkneſſe to
+light, from prophaneſſe to true Godlineſſe, be true unto ſalvation,
+and whether thoſe that have been thus converted were in the
+ſtate of ſalvation, before they joyned themſelves unto your ſoci<g ref="char:EOLhyphen"/>ety,
+or whether can none be converted, and ſaved, that never
+came under, nor gave their aſſent to the diſpenſation of your
+way, and how you will juſtifye yours to be in the true and good
+old way, that all have and ſhall be ſaved in, you may do well to
+make it out by ſome evident demonſtration.</p>
+            <p>
+               <hi>Anſ.</hi> Who can witneſſe a true converſion by the power of
+the ſpirit of God, in turning their mindes from darkneſſe to light,
+that comes from Chriſt, and in his light waite to receive the ſen<g ref="char:EOLhyphen"/>tence
+of death in themſelves, to deſtroy all ſelf confidence in any
+thing below Chriſt, and in the ſtate of death to wait till that they
+heare the voice of the Son of God, and by his power was raiſed
+up to a liveing hope in Chriſt to walk, who throw his blood do
+<pb n="29" facs="tcp:117904:16"/>
+witneſſe their garments waſhed and made white, to reigne Kings
+and Preiſts upon the earth for ever, to worſhip the father in ſpi<g ref="char:EOLhyphen"/>rit
+and truth, and who ever can witneſſe this converſion whether
+it were wrought when they frequented your publique aſſemblies,
+or abſented from them, this converſion we owne who it can
+witneſſe, and of our way they are, and will to us come, and all
+ſhall know the truth we witneſſe is the good old way, that all
+ſouls that came to God walked in, Chriſt the way the truth and
+the life, the ancient of daies, which was before time, but manifeſt
+in time in all the Children of light, who doth them lead in the
+narrow way of ſelf denial, and the daily Croſs, with him to enter,
+thorow the ſtrait gate, into the holy City, new <hi>Jeruſalem,</hi> where
+the ſoule hath union which the father of light, and beholds his
+face, and his name is written in their foreheads, and there is no
+night there, neither need of <hi>Candle, nor light of the Sun, for the
+Lord God giveth them light, and they ſhall reigne for ever and ever,
+Rev.</hi> 22. 5.</p>
+            <p>10. Whether any of your way attaine unto perfection in this
+life, that they can truly ſay that they do all that God commands,
+without failing, either in matter or in manner of obedience, no
+not in thought, word and deed, and whether the perſons of any
+ſtand juſt before God, that are not thus perfect.</p>
+            <p>
+               <hi>Anſ.</hi> All that are in the way we are in, which is Chriſt the
+way to the Father, in whom all in their meaſure are preſſing on
+to the fulneſs of ſtature in Chriſt the perfect man, and who in him
+is grown to the fulneſſe of ſtature, in his power doth ſtand, which
+doth them guide, that in their mouthes is found no guile, for they
+are without fault before the Throne of God, <hi>Rev.</hi> 14. 5.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
